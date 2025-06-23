@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+- Successfully complete the Git and GitHub course with a high grade.
+- Master the fundamentals of version control, including branching, merging, and handling pull requests.
+- Learn how to effectively collaborate on projects using GitHub by forking and contributing.
+- Become comfortable with the local Git workflow (clone, add, commit, push).
+- Apply these new skills to future personal and academic projects.
